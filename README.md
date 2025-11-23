@@ -179,19 +179,6 @@ flutter pub run build_runner build --delete-conflicting-outputs
 - **Success Color**: Green for completed tasks
 - **Theme**: Material Design 3 with system theme support
 
-## 🔮 Future Enhancements
-
-- [ ] Edit existing tasks
-- [ ] Delete tasks
-- [ ] Rewards screen implementation
-- [ ] Task categories/tags
-- [ ] Statistics and progress tracking
-- [ ] Multiple user profiles
-- [ ] Cloud sync
-- [ ] Push notifications for task reminders
-- [ ] Photo proof capture and storage
-- [ ] Export/import tasks
-
 ## 📝 Notes
 
 - Tasks are stored locally using Hive - no cloud backup by default
@@ -203,12 +190,11 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 
+**Pulkit Gahlot**
+[Linkedin](https://linkedin.com/in/pulkit-gahlot)
+[Github](https://github.com/PulkitGahlot)
 Developed with ❤️ using Flutter
 
 ---
