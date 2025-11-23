@@ -195,10 +195,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Pulkit Gahlot**
 
 [Linkedin](https://linkedin.com/in/pulkit-gahlot)
-
 [Github](https://github.com/PulkitGahlot)
 
----
-
-**Version**: 1.0.0+1  
-**Last Updated**: 2024
