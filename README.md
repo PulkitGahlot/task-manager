@@ -193,9 +193,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👨‍💻 Author
 
 **Pulkit Gahlot**
+
 [Linkedin](https://linkedin.com/in/pulkit-gahlot)
+
 [Github](https://github.com/PulkitGahlot)
-Developed with ❤️ using Flutter
 
 ---
 
